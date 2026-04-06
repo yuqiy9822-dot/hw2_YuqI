@@ -1,0 +1,16 @@
+## Summary
+The onboarding page redesign is ready for QA. Mike will test it by Thursday. The team agreed to delay the email campaign until next Monday.
+
+## Action Items
+- Task: Test the onboarding page redesign
+  Owner: Mike
+  Deadline: Thursday
+- Task: Delay the email campaign until next Monday
+  Owner:
+  Deadline: next Monday
+
+## Risks / Blockers
+- No major blockers.
+
+## Human Review Needed
+- No
