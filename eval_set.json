@@ -1,0 +1,27 @@
+[
+  {
+    "id": "case_1",
+    "input": "Weekly product sync. Sarah confirmed the onboarding page redesign is ready for QA. Mike will test it by Thursday.",
+    "good_output_should_do": "Summarize and extract action items with owner and deadline."
+  },
+  {
+    "id": "case_2",
+    "input": "Finish vendor comparison by Friday. Send updated pricing sheet.",
+    "good_output_should_do": "List tasks clearly and avoid inventing owners."
+  },
+  {
+    "id": "case_3",
+    "input": "Client unhappy. Someone should respond today.",
+    "good_output_should_do": "Flag uncertainty and recommend human review."
+  },
+  {
+    "id": "case_4",
+    "input": "Bug in checkout maybe from last release. Jenna fixing?",
+    "good_output_should_do": "Preserve uncertainty and not assume facts."
+  },
+  {
+    "id": "case_5",
+    "input": "Anita will draft email by Tuesday. CRM tags may be incomplete.",
+    "good_output_should_do": "Extract action item and identify risk."
+  }
+]
