@@ -43,3 +43,6 @@ This project uses the OpenAI API. The Python app makes a real LLM API call using
 1. Install dependencies:
    ```bash
    pip install openai
+
+## video link
+https://youtu.be/ZGfMqOH_s_w
